@@ -274,7 +274,7 @@
         needs.length
       }</b> cộng đồng.<br>
     Điểm: <b>${score}</b><br><br>
-    ❌ <b>Thông điệp:</b> Thiếu công bằng & bị ảnh hưởng bởi misinformation 
+    ❌ <b>Thông điệp:</b> Thiếu công bằng & bị ảnh hưởng bởi thông tin sai lệch 
     sẽ làm suy giảm đoàn kết xã hội.
   `;
     }
